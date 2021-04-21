@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "react-app",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/QV5mOIuB6FtFK4EVj0CiiO1vFwYDL3ghR1DKa50dqkUFbGERh3",
+  "gitHubUrl": "https://github.com/sobaotto/react-gh-actions",
+  "workFolder": "react-app"
+}

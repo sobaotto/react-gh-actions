@@ -1,0 +1,205 @@
+[2021-04-21 04:11:11Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2021-04-21 04:11:11Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 04:11:11Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 04:11:11Z INFO HostContext] Well known config file 'Credentials': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials'
+[2021-04-21 04:11:12Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2021-04-21 04:11:12Z INFO Listener] RuntimeInformation: Darwin 19.6.0 Darwin Kernel Version 19.6.0: Tue Nov 10 00:10:30 PST 2020; root:xnu-6153.141.10~1/RELEASE_X86_64.
+[2021-04-21 04:11:12Z INFO Listener] Version: 2.277.1
+[2021-04-21 04:11:12Z INFO Listener] Commit: 183a3dd9a0d4d51feddc5fe9fa6c3b5f8b08343d
+[2021-04-21 04:11:12Z INFO Listener] Culture: ja-JP
+[2021-04-21 04:11:12Z INFO Listener] UI Culture: ja-JP
+[2021-04-21 04:11:12Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 04:11:12Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 04:11:12Z INFO Listener] Validating directory permissions for: '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 04:11:12Z INFO CommandLineParser] Parse
+[2021-04-21 04:11:12Z INFO CommandLineParser] Parsing 5 args
+[2021-04-21 04:11:12Z INFO CommandLineParser] parsing argument
+[2021-04-21 04:11:12Z INFO CommandLineParser] HasArgs: False
+[2021-04-21 04:11:12Z INFO CommandLineParser] Adding Command: configure
+[2021-04-21 04:11:12Z INFO CommandLineParser] parsing argument
+[2021-04-21 04:11:12Z INFO CommandLineParser] HasArgs: True
+[2021-04-21 04:11:12Z INFO CommandLineParser] arg: url
+[2021-04-21 04:11:12Z INFO CommandLineParser] parsing argument
+[2021-04-21 04:11:12Z INFO CommandLineParser] HasArgs: True
+[2021-04-21 04:11:12Z INFO CommandLineParser] Adding option 'url': 'https://github.com/sobaotto/react-gh-actions'
+[2021-04-21 04:11:12Z INFO CommandLineParser] parsing argument
+[2021-04-21 04:11:12Z INFO CommandLineParser] HasArgs: True
+[2021-04-21 04:11:12Z INFO CommandLineParser] arg: token
+[2021-04-21 04:11:12Z INFO CommandLineParser] parsing argument
+[2021-04-21 04:11:12Z INFO CommandLineParser] HasArgs: True
+[2021-04-21 04:11:12Z INFO CommandLineParser] Adding option 'token': '***'
+[2021-04-21 04:11:12Z INFO Listener] Arguments parsed
+[2021-04-21 04:11:12Z INFO Runner] ExecuteCommand
+[2021-04-21 04:11:12Z INFO ConfigurationStore] currentAssemblyLocation: /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin/Runner.Listener.dll
+[2021-04-21 04:11:12Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 04:11:12Z INFO ConfigurationStore] binPath: /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin
+[2021-04-21 04:11:12Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 04:11:12Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 04:11:12Z INFO ConfigurationStore] RootFolder: /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner
+[2021-04-21 04:11:12Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 04:11:12Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 04:11:12Z INFO HostContext] Well known config file 'Runner': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.runner'
+[2021-04-21 04:11:12Z INFO ConfigurationStore] ConfigFilePath: /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.runner
+[2021-04-21 04:11:12Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 04:11:12Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 04:11:12Z INFO HostContext] Well known config file 'Credentials': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials'
+[2021-04-21 04:11:12Z INFO ConfigurationStore] CredFilePath: /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials
+[2021-04-21 04:11:12Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 04:11:12Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 04:11:12Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials_migrated'
+[2021-04-21 04:11:12Z INFO ConfigurationStore] MigratedCredFilePath: /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials_migrated
+[2021-04-21 04:11:12Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 04:11:12Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 04:11:12Z INFO HostContext] Well known config file 'Service': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.service'
+[2021-04-21 04:11:12Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.service
+[2021-04-21 04:11:12Z INFO CommandSettings] Flag 'help': 'False'
+[2021-04-21 04:11:12Z INFO CommandSettings] Flag 'version': 'False'
+[2021-04-21 04:11:12Z INFO CommandSettings] Flag 'commit': 'False'
+[2021-04-21 04:11:12Z INFO CommandSettings] Flag 'check': 'False'
+[2021-04-21 04:11:12Z INFO CommandSettings] Command 'configure': 'True'
+[2021-04-21 04:11:12Z INFO Terminal] WRITE LINE: 
+[2021-04-21 04:11:12Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2021-04-21 04:11:12Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2021-04-21 04:11:12Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2021-04-21 04:11:12Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2021-04-21 04:11:12Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2021-04-21 04:11:12Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2021-04-21 04:11:12Z INFO Terminal] WRITE LINE: |                                                                              |
+[2021-04-21 04:11:12Z INFO Terminal] WRITE: |                       
+[2021-04-21 04:11:12Z INFO Terminal] WRITE: Self-hosted runner registration
+[2021-04-21 04:11:12Z INFO Terminal] WRITE LINE:                         |
+[2021-04-21 04:11:12Z INFO Terminal] WRITE LINE: |                                                                              |
+[2021-04-21 04:11:12Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2021-04-21 04:11:12Z INFO ConfigurationManager] ConfigureAsync
+[2021-04-21 04:11:12Z INFO ConfigurationStore] IsConfigured()
+[2021-04-21 04:11:12Z INFO ConfigurationStore] IsConfigured: False
+[2021-04-21 04:11:12Z INFO ConfigurationManager] Is configured: False
+[2021-04-21 04:11:12Z INFO CommandSettings] Arg 'url': 'https://github.com/sobaotto/react-gh-actions'
+[2021-04-21 04:11:12Z INFO CommandSettings] Remove url from Arg dictionary.
+[2021-04-21 04:11:12Z INFO CommandSettings] Arg 'token': '***'
+[2021-04-21 04:11:12Z INFO CommandSettings] Remove token from Arg dictionary.
+[2021-04-21 04:11:16Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration'
+[2021-04-21 04:11:17Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2021-04-21 04:11:17Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-04-21 04:11:17Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-04-21 04:11:17Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-04-21 04:11:17Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-04-21 04:11:17Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-04-21 04:11:17Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-04-21 04:11:19Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-04-21 04:11:19Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-04-21 04:11:19Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-04-21 04:11:19Z INFO Terminal] WRITE LINE: 
+[2021-04-21 04:11:19Z INFO ConfigurationManager] Test Connection complete.
+[2021-04-21 04:11:19Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 04:11:19Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 04:11:19Z INFO HostContext] Well known config file 'RSACredentials': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials_rsaparams'
+[2021-04-21 04:11:19Z INFO RSAFileKeyManager] Creating new RSA key using 2048-bit key length
+[2021-04-21 04:11:20Z INFO RSAFileKeyManager] Successfully saved RSA key parameters to file /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials_rsaparams
+[2021-04-21 04:11:20Z INFO RSAFileKeyManager] Which: 'chmod'
+[2021-04-21 04:11:20Z INFO RSAFileKeyManager] Location: '/bin/chmod'
+[2021-04-21 04:11:21Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 04:11:21Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 04:11:21Z INFO ProcessInvokerWrapper] Starting process:
+[2021-04-21 04:11:21Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2021-04-21 04:11:21Z INFO ProcessInvokerWrapper]   Arguments: '600 /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials_rsaparams'
+[2021-04-21 04:11:21Z INFO ProcessInvokerWrapper]   Working directory: '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 04:11:21Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2021-04-21 04:11:21Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-04-21 04:11:21Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2021-04-21 04:11:21Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-04-21 04:11:21Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-04-21 04:11:21Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-04-21 04:11:21Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2021-04-21 04:11:21Z INFO ProcessInvokerWrapper] Process started with process id 41094, waiting for process exit.
+[2021-04-21 04:11:21Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-21 04:11:21Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-21 04:11:21Z INFO ProcessInvokerWrapper] Finished process 41094 with exit code 0, and elapsed time 00:00:00.0227492.
+[2021-04-21 04:11:21Z INFO RSAFileKeyManager] Successfully set permissions for RSA key parameters file /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials_rsaparams
+[2021-04-21 04:11:22Z INFO ConfigurationManager] Found a self-hosted runner group with id {1} and name {2} 1, Default
+[2021-04-21 04:11:22Z INFO CommandSettings] Arg 'name': ''
+[2021-04-21 04:11:22Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-04-21 04:11:22Z INFO PromptManager] ReadValue
+[2021-04-21 04:11:22Z INFO Terminal] WRITE: Enter the name of runner: 
+[2021-04-21 04:11:22Z INFO Terminal] WRITE: [press Enter for ryota-Air] 
+[2021-04-21 04:11:22Z INFO Terminal] READ LINE
+[2021-04-21 04:14:00Z INFO Terminal] Read value: 'react-app'
+[2021-04-21 04:14:00Z INFO Terminal] WRITE LINE: 
+[2021-04-21 04:14:00Z INFO CommandSettings] Arg 'labels': ''
+[2021-04-21 04:14:00Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-04-21 04:14:00Z INFO PromptManager] ReadValue
+[2021-04-21 04:14:00Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'macOS', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2021-04-21 04:14:00Z INFO Terminal] WRITE: [press Enter to skip] 
+[2021-04-21 04:14:00Z INFO Terminal] READ LINE
+[2021-04-21 04:14:27Z INFO Terminal] Read value: ''
+[2021-04-21 04:14:27Z INFO Terminal] WRITE LINE: 
+[2021-04-21 04:14:29Z INFO ConfigurationStore] Saving OAuth credential @ /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials
+[2021-04-21 04:14:29Z INFO ConfigurationStore] Credentials Saved.
+[2021-04-21 04:14:29Z INFO ConfigurationStore] HasCredentials()
+[2021-04-21 04:14:29Z INFO ConfigurationStore] stored True
+[2021-04-21 04:14:29Z INFO CredentialManager] GetCredentialProvider
+[2021-04-21 04:14:29Z INFO CredentialManager] Creating type OAuth
+[2021-04-21 04:14:29Z INFO CredentialManager] Creating credential type: OAuth
+[2021-04-21 04:14:29Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials_rsaparams
+[2021-04-21 04:14:30Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-04-21 04:14:30Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-04-21 04:14:30Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-04-21 04:14:30Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-04-21 04:14:30Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-04-21 04:14:30Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-04-21 04:14:31Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-04-21 04:14:31Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-04-21 04:14:31Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-04-21 04:14:32Z WARN GitHubActionsService] Authentication failed with status code 401.
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 2ee47a1c-971c-4d10-8c64-4092a285cba0
+ActivityId: a3c10228-3967-48a0-8144-17726abce295
+X-TFS-Session: 8db017ee-eff4-4601-96f3-2cfb60fc529b
+X-VSS-E2EID: 5bfe4106-673e-41dc-9540-e0724f39d068
+X-VSS-SenderDeploymentId: 2c974d96-2c30-cef5-eff2-3e0511a903a5
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-MSEdge-Ref: Ref A: E5ACC33A31CB496B921577E0FE5A1CC9 Ref B: TYO01EDGE1106 Ref C: 2021-04-21T04:14:31Z
+Date: Wed, 21 Apr 2021 04:14:31 GMT
+
+[2021-04-21 04:14:32Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials_rsaparams
+[2021-04-21 04:14:32Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials_rsaparams
+[2021-04-21 04:14:33Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2021-04-21 04:14:33Z INFO CommandSettings] Arg 'work': ''
+[2021-04-21 04:14:33Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-04-21 04:14:33Z INFO PromptManager] ReadValue
+[2021-04-21 04:14:33Z INFO Terminal] WRITE: Enter name of work folder: 
+[2021-04-21 04:14:33Z INFO Terminal] WRITE: [press Enter for _work] 
+[2021-04-21 04:14:33Z INFO Terminal] READ LINE
+[2021-04-21 04:15:01Z INFO Terminal] Read value: 'react-app'
+[2021-04-21 04:15:01Z INFO ConfigurationStore] Saving runner settings.
+[2021-04-21 04:15:01Z INFO ConfigurationStore] Settings Saved.
+[2021-04-21 04:15:01Z INFO Terminal] WRITE LINE: 
+[2021-04-21 04:15:01Z INFO Terminal] WRITE LINE: 
+[2021-04-21 04:15:01Z INFO OsxServiceControlManager] Service name 'actions.runner.sobaotto-react-gh-actions.react-app' display name 'GitHub Actions Runner (sobaotto-react-gh-actions.react-app)' will be used for service configuration.
+[2021-04-21 04:15:01Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 04:15:01Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 04:15:01Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 04:15:01Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 04:15:01Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 04:15:01Z INFO UnixUtil] Which: 'chmod'
+[2021-04-21 04:15:01Z INFO UnixUtil] Location: '/bin/chmod'
+[2021-04-21 04:15:01Z INFO UnixUtil] Running /bin/chmod 755 "/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/svc.sh"
+[2021-04-21 04:15:01Z INFO ProcessInvokerWrapper] Starting process:
+[2021-04-21 04:15:01Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2021-04-21 04:15:01Z INFO ProcessInvokerWrapper]   Arguments: '755 "/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/svc.sh"'
+[2021-04-21 04:15:01Z INFO ProcessInvokerWrapper]   Working directory: '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 04:15:01Z INFO ProcessInvokerWrapper]   Require exit code zero: 'True'
+[2021-04-21 04:15:01Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-04-21 04:15:01Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2021-04-21 04:15:01Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-04-21 04:15:01Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-04-21 04:15:01Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-04-21 04:15:01Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2021-04-21 04:15:01Z INFO ProcessInvokerWrapper] Process started with process id 41127, waiting for process exit.
+[2021-04-21 04:15:01Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-21 04:15:01Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-04-21 04:15:01Z INFO ProcessInvokerWrapper] Finished process 41127 with exit code 0, and elapsed time 00:00:00.0224905.
+[2021-04-21 04:15:01Z INFO Listener] Runner execution has finished with return code 0

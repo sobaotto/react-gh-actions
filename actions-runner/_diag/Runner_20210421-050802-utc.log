@@ -1,0 +1,131 @@
+[2021-04-21 05:08:02Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2021-04-21 05:08:02Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 05:08:02Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 05:08:02Z INFO HostContext] Well known config file 'Credentials': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials'
+[2021-04-21 05:08:03Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2021-04-21 05:08:03Z INFO Listener] RuntimeInformation: Darwin 19.6.0 Darwin Kernel Version 19.6.0: Tue Nov 10 00:10:30 PST 2020; root:xnu-6153.141.10~1/RELEASE_X86_64.
+[2021-04-21 05:08:03Z INFO Listener] Version: 2.277.1
+[2021-04-21 05:08:03Z INFO Listener] Commit: 183a3dd9a0d4d51feddc5fe9fa6c3b5f8b08343d
+[2021-04-21 05:08:03Z INFO Listener] Culture: ja-JP
+[2021-04-21 05:08:03Z INFO Listener] UI Culture: ja-JP
+[2021-04-21 05:08:03Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 05:08:03Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 05:08:03Z INFO Listener] Validating directory permissions for: '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 05:08:03Z INFO CommandLineParser] Parse
+[2021-04-21 05:08:03Z INFO CommandLineParser] Parsing 1 args
+[2021-04-21 05:08:03Z INFO CommandLineParser] parsing argument
+[2021-04-21 05:08:03Z INFO CommandLineParser] HasArgs: False
+[2021-04-21 05:08:03Z INFO CommandLineParser] Adding Command: run
+[2021-04-21 05:08:03Z INFO Listener] Arguments parsed
+[2021-04-21 05:08:03Z INFO Runner] ExecuteCommand
+[2021-04-21 05:08:03Z INFO ConfigurationStore] currentAssemblyLocation: /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin/Runner.Listener.dll
+[2021-04-21 05:08:03Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 05:08:03Z INFO ConfigurationStore] binPath: /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin
+[2021-04-21 05:08:03Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 05:08:03Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 05:08:03Z INFO ConfigurationStore] RootFolder: /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner
+[2021-04-21 05:08:03Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 05:08:03Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 05:08:03Z INFO HostContext] Well known config file 'Runner': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.runner'
+[2021-04-21 05:08:03Z INFO ConfigurationStore] ConfigFilePath: /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.runner
+[2021-04-21 05:08:03Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 05:08:03Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 05:08:03Z INFO HostContext] Well known config file 'Credentials': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials'
+[2021-04-21 05:08:03Z INFO ConfigurationStore] CredFilePath: /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials
+[2021-04-21 05:08:03Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 05:08:03Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 05:08:03Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials_migrated'
+[2021-04-21 05:08:03Z INFO ConfigurationStore] MigratedCredFilePath: /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials_migrated
+[2021-04-21 05:08:03Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 05:08:03Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 05:08:03Z INFO HostContext] Well known config file 'Service': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.service'
+[2021-04-21 05:08:03Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.service
+[2021-04-21 05:08:03Z INFO CommandSettings] Flag 'help': 'False'
+[2021-04-21 05:08:03Z INFO CommandSettings] Flag 'version': 'False'
+[2021-04-21 05:08:03Z INFO CommandSettings] Flag 'commit': 'False'
+[2021-04-21 05:08:03Z INFO CommandSettings] Flag 'check': 'False'
+[2021-04-21 05:08:03Z INFO CommandSettings] Command 'configure': 'False'
+[2021-04-21 05:08:03Z INFO CommandSettings] Command 'remove': 'False'
+[2021-04-21 05:08:03Z INFO CommandSettings] Command 'warmup': 'False'
+[2021-04-21 05:08:03Z INFO ConfigurationManager] LoadSettings
+[2021-04-21 05:08:03Z INFO ConfigurationStore] IsConfigured()
+[2021-04-21 05:08:03Z INFO ConfigurationStore] IsConfigured: True
+[2021-04-21 05:08:03Z INFO ConfigurationManager] Is configured: True
+[2021-04-21 05:08:03Z INFO ConfigurationStore] Read setting file: 295 chars
+[2021-04-21 05:08:03Z INFO ConfigurationManager] Settings Loaded
+[2021-04-21 05:08:03Z INFO ConfigurationStore] IsServiceConfigured()
+[2021-04-21 05:08:03Z INFO ConfigurationStore] IsServiceConfigured: False
+[2021-04-21 05:08:03Z INFO CommandSettings] Command 'run': 'True'
+[2021-04-21 05:08:03Z INFO ConfigurationStore] IsConfigured()
+[2021-04-21 05:08:03Z INFO ConfigurationStore] IsConfigured: True
+[2021-04-21 05:08:03Z INFO ConfigurationManager] Is configured: True
+[2021-04-21 05:08:03Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2021-04-21 05:08:03Z INFO Runner] Set runner startup type - Manual
+[2021-04-21 05:08:03Z INFO CommandSettings] Flag 'once': 'False'
+[2021-04-21 05:08:03Z INFO Runner] RunAsync
+[2021-04-21 05:08:03Z INFO ConfigurationManager] LoadSettings
+[2021-04-21 05:08:03Z INFO ConfigurationStore] IsConfigured()
+[2021-04-21 05:08:03Z INFO ConfigurationStore] IsConfigured: True
+[2021-04-21 05:08:03Z INFO ConfigurationManager] Is configured: True
+[2021-04-21 05:08:03Z INFO ConfigurationManager] Settings Loaded
+[2021-04-21 05:08:03Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "react-app",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/QV5mOIuB6FtFK4EVj0CiiO1vFwYDL3ghR1DKa50dqkUFbGERh3",
+  "GitHubUrl": "https://github.com/sobaotto/react-gh-actions",
+  "WorkFolder": "react-app"
+}
+[2021-04-21 05:08:03Z INFO MessageListener] Loading Credentials
+[2021-04-21 05:08:03Z INFO ConfigurationStore] HasCredentials()
+[2021-04-21 05:08:03Z INFO ConfigurationStore] stored True
+[2021-04-21 05:08:03Z INFO CredentialManager] GetCredentialProvider
+[2021-04-21 05:08:03Z INFO CredentialManager] Creating type OAuth
+[2021-04-21 05:08:03Z INFO CredentialManager] Creating credential type: OAuth
+[2021-04-21 05:08:03Z INFO HostContext] Well known directory 'Bin': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/bin'
+[2021-04-21 05:08:03Z INFO HostContext] Well known directory 'Root': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner'
+[2021-04-21 05:08:03Z INFO HostContext] Well known config file 'RSACredentials': '/Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials_rsaparams'
+[2021-04-21 05:08:03Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials_rsaparams
+[2021-04-21 05:08:03Z INFO MessageListener] Attempt to create session.
+[2021-04-21 05:08:03Z INFO MessageListener] Connecting to the Runner Server...
+[2021-04-21 05:08:03Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-04-21 05:08:03Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-04-21 05:08:04Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-04-21 05:08:04Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-04-21 05:08:04Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-04-21 05:08:04Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-04-21 05:08:04Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-04-21 05:08:04Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-04-21 05:08:04Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-04-21 05:08:05Z INFO MessageListener] VssConnection created
+[2021-04-21 05:08:05Z INFO Terminal] WRITE LINE: 
+[2021-04-21 05:08:05Z INFO Terminal] WRITE LINE: 
+[2021-04-21 05:08:05Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: d63c944d-220a-4e27-acd5-16d3c4c92246
+ActivityId: 31112d7c-c09f-48ec-807b-be3ebbe89465
+X-TFS-Session: 87e1a698-6fbd-4345-be8d-1337bdb46152
+X-VSS-E2EID: c638daf0-de67-4096-bf1d-66280bd84717
+X-VSS-SenderDeploymentId: 2c974d96-2c30-cef5-eff2-3e0511a903a5
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-MSEdge-Ref: Ref A: 5A8559C745D940E5A4C293325F1A4F88 Ref B: TYBEDGE0621 Ref C: 2021-04-21T05:08:05Z
+Date: Wed, 21 Apr 2021 05:08:05 GMT
+
+[2021-04-21 05:08:05Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials_rsaparams
+[2021-04-21 05:08:05Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/ryota/Desktop/Programming/Studying/Doing/GH_actions/react-gh-actions/actions-runner/.credentials_rsaparams
+[2021-04-21 05:08:07Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2021-04-21 05:08:07Z INFO MessageListener] Session created.
+[2021-04-21 05:08:07Z INFO Terminal] WRITE LINE: 2021-04-21 05:08:07Z: Listening for Jobs
+[2021-04-21 05:08:07Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2021-04-21 05:08:34Z INFO Terminal] WRITE LINE: Exiting...
+[2021-04-21 05:08:34Z INFO ConfigurationStore] IsServiceConfigured()
+[2021-04-21 05:08:34Z INFO ConfigurationStore] IsServiceConfigured: False
+[2021-04-21 05:08:34Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2021-04-21 05:08:34Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/QV5mOIuB6FtFK4EVj0CiiO1vFwYDL3ghR1DKa50dqkUFbGERh3/_apis/distributedtask/pools/1/messages?sessionId=0afbb9ba-c42d-4365-80ea-fc3beaa0189c has been cancelled.
+[2021-04-21 05:08:34Z INFO MessageListener] Get next message has been cancelled.
+[2021-04-21 05:08:34Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2021-04-21 05:08:34Z INFO Listener] Runner execution been cancelled.

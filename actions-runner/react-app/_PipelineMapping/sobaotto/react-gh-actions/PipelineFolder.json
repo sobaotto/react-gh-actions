@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "sobaotto/react-gh-actions",
+  "pipelineDirectory": "react-gh-actions",
+  "workspaceDirectory": "react-gh-actions/react-gh-actions",
+  "repositories": {
+    "sobaotto/react-gh-actions": {
+      "repositoryPath": "react-gh-actions/react-gh-actions",
+      "lastRunOn": "04/21/2021 13:18:04 +09:00"
+    }
+  },
+  "lastRunOn": "04/21/2021 13:18:04 +09:00"
+}
